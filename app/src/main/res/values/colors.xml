@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#fe4c4c</color>-->
+    <!--<color name="colorPrimary">#515151</color>-->
+    <color name="colorPrimary">#F04234</color>
+    <color name="colorPrimary90">#E6914123</color>
+
+    <color name="tab_color_selected">#F04234</color>
+    <color name="tab_color_deselected">#515151</color>
+
+    <color name="textColorPrimary">#F04234</color>
+
+
+    <color name="header_image">#3d3d3d</color>
+    <color name="header_title">#3d3d3d</color>
+    <color name="list_item">#282828</color>
+    <color name="list_item_seperator">#F7F7F7</color>
+
+
+    <color name="colorPrimaryDark">#4a4a4f</color>
+    <color name="divider_light_grey">#CCCCCC</color>
+
+    <color name="colorPrimary_onpressed">#914123</color>
+    <color name="secondary_text_color">#b0b0b0</color>
+
+    <!--<color name="hospital_bg_secondary">#914123</color>-->
+    <color name="lightest_grey">#eae5e5</color>
+    <color name="bg_confirmalert">#f8f8f8</color>
+    <color name="light_blue_video">#46a1ff</color>
+    <color name="text_title_grey">#7A7A7A</color>
+    <color name="text_grey_variant">#515151</color>
+    <color name="text_kind_grey">#5c5c5c</color>
+    <color name="text_ultralight_grey_title">#6E6E6E</color>
+    <color name="text_ultralight_grey">#A0A0A0</color>
+    <color name="secondaryColor">#A0A0A0</color>
+    <color name="filter_reset_bg">#dadad9</color>
+    <color name="filter_reset_text">#474545</color>
+    <color name="listview_disabledbg">#ebebeb</color>
+    <color name="listview_disabledtextbg">#9b9b9b</color>
+
+    <color name="colorPrimary_t">#036F6F</color>
+    <color name="colorSecondary_t">#6CBA22</color>
+
+    <color name="et_label_default">#F0F0F0</color>
+    <color name="home_default_bg">#F0F0F0</color>
+
+    <color name="et_hint_color">#d2d2d2</color>
+    <color name="et_text_color">#515151</color>
+
+
+    <color name="colorAccent">#b0b0b0</color>
+    <color name="divider_line_grey">#d2d2d2</color>
+    <color name="divider_color">#c6c5d3</color>
+    <color name="divider_moderatelight_grey">#dbdbdb</color>
+
+    <color name="bg_grey_1">#F5F5F5</color>
+    <color name="bg_grey_2">#eeeeee</color>
+    <color name="bg_grey_3">#f0f0f0</color>
+
+
+    <color name="window_background">#FFF5F5F5</color>
+    <color name="light_grey">#D3D3D3</color>
+    <color name="grey_variation">#999999</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="border_circle_imageview_color">#dedede</color>
+    <color name="dark_grey">#282828</color>
+    <color name="transparent_white">#00000000</color>
+    <color name="transparent_full">#00ffffff</color>
+    <color name="light_dark_grey">#cfcfcf</color>
+    <color name="calling_Screen_border_grey_color">#AFAFAF</color>
+
+    <color name="text_light_grey">#989898</color>
+    <color name="profile_edit_title_color">#515151</color>
+
+
+    <color name="profileitem_text_onpress">#DFDFDF</color>
+
+    <color name="mildgrey">#b0b0b0</color>
+    <color name="bg_circular_btn">#FF4123</color>
+
+
+    <color name="black_solid">#FF424242</color>
+    <color name="text_color_dark_1">#595a5f</color>
+    <color name="text_color_1">#585a5b</color>
+    <color name="text_color_light_1">#787878</color>
+    <color name="grey_mild_1">#b0b0b0</color>
+    <color name="grey_mild_2">#A0A0A0</color>
+    <!--<color name="grey_header_bg">#7e5868</color>-->
+    <color name="grey_header_bg">#3eb9ff</color>
+    <color name="grey_mild_3">#dbdbdb</color>
+    <color name="grey_mild_4">#acb0b1</color>
+    <color name="grey_mild_5">#cdcdcd</color>
+    <color name="grey_mild_6">#e8e8ea</color>
+    <color name="grey_1">#77778f</color>
+    <color name="grey_divider_1">#b4bac5</color>
+    <color name="search_bg_temp">#eff0f1</color>
+
+    <color name="white_2">#EDEDED</color>
+    <color name="light_primary">#E7E7E7</color>
+
+    <color name="ob_secondary">#3eb9ff</color>
+
+    <color name="common_bg_1">#eaeff2</color>
+    <color name="common_bg_2">#f9fbfb</color>
+    <color name="common_bg_3">#f7f7f7</color>
+
+
+    <color name="colorAccent_m">#c2f2f2</color>
+    <color name="transparent">#00FEFEFE</color>
+    <color name="white2">#ffffff</color>
+    <color name="white3">#f6f6f7</color>
+
+
+    <color name="et_hint_color_1">#cdcdcd</color>
+    <color name="et_text_color_1">#585a5b</color>
+
+    <color name="color_header_bg">#eff0f1</color>
+
+
+</resources>

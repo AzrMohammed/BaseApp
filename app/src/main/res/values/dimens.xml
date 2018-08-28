@@ -1,0 +1,69 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <dimen name="footer_button_margin">10dp</dimen>
+    <dimen name="footer_shadow_height">10dp</dimen>
+    <dimen name="frag_default_padding">30dp</dimen>
+    <dimen name="frag_default_padding_bottom">10dp</dimen>
+
+
+    <dimen name="text_smallxx">8sp</dimen>
+    <dimen name="text_smallx">10sp</dimen>
+    <dimen name="text_smalla">12sp</dimen>
+    <dimen name="text_small">14sp</dimen>
+    <dimen name="text_medium">16sp</dimen>
+    <dimen name="text_large">18sp</dimen>
+    <dimen name="text_largex">20sp</dimen>
+    <dimen name="text_largexx">22sp</dimen>
+    <dimen name="text_largexxx">30sp</dimen>
+
+
+    <dimen name="nav_button_padding">15dp</dimen>
+    <dimen name="nav_ic_size">20dp</dimen>
+
+
+    <dimen name="book_card_icon_size">30dp</dimen>
+    <dimen name="book_card_text_size">14sp</dimen>
+
+
+    //appointment block dimen
+    <dimen name="common_appointment_text_padding">5dp</dimen>
+
+    // margin
+    <dimen name="margin_5">5dp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="margin_15">15dp</dimen>
+    <dimen name="margin_20">20dp</dimen>
+    <dimen name="margin_30">30dp</dimen>
+    <dimen name="margin_40">40dp</dimen>
+
+
+    //padding
+
+
+    <dimen name="padding_2">2dp</dimen>
+    <dimen name="padding_5">5dp</dimen>
+    <dimen name="padding_10">10dp</dimen>
+    <dimen name="padding_15">15dp</dimen>
+    <dimen name="padding_20">20dp</dimen>
+    <dimen name="padding_30">30dp</dimen>
+    <dimen name="padding_50">50dp</dimen>
+
+    <dimen name="topbar_height">60dp</dimen>
+
+
+    <dimen name="divider_padding_thin">1dp</dimen>
+    <dimen name="topbar_fontsize">16sp</dimen>
+
+    <dimen name="white_btn_p_l">25dp</dimen>
+    <dimen name="white_btn_p_r">25dp</dimen>
+    <dimen name="white_btn_p_t">7dp</dimen>
+    <dimen name="white_btn_p_b">7dp</dimen>
+    <dimen name="white_btn_shadow">10dp</dimen>
+    <dimen name="white_btn_elevation">5dp</dimen>
+    <dimen name="white_btn_c_elevation">2dp</dimen>
+    <dimen name="white_btn_f_edge">5dp</dimen>
+    <dimen name="white_btn_c_radius">20dp</dimen>
+
+
+</resources>
