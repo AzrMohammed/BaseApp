@@ -2,6 +2,53 @@
 
 Hi this app acts as an framework to ease your work of development at all the basic level operations like API interations, DB interations, view/data conversion utils, validator utils, calendar utils, hardware utils, view utils 
 
+CalendarUtils:
+All the convesion and processing operations required for calendar/date instances can be found here 
+eg : getSimpleDateFor(), getAge(), getDisplayDate(), etc ..,
+
+
+DataUtils:
+All the data processing operations can be found here
+eg : isStringValueExist(), isStringTrue(), removeDuplicate(), convertJsonArrayToArraylist(), distance(), etc..,
+
+DbUtils:
+Basic db utils can be found here 
+eg : createSlug(), getContentValuesKeys()
+
+DisplayUtils:
+Toast and user alert operations can be found here
+eg : showMessage(), showMessageError()
+
+HardwareUtils:
+All the hardware utils can be found here
+eg :  getDeviceHeight(), isValidDevice(), getRealPathFromUri(), isWifiPermisssionExist(), proceedCall(), etc.., 
+
+NetworkUtils: 
+Network validator utils can be found here
+eg : isNetworkAvailable(), isConnected()
+
+ValueUtils:
+All the basic global constant values can be defined here
+
+ViewUtils:
+All the utils related to the screen view can be found here
+eg : getDrawable(), setViewToModel(), showKeyboard(), setEtMaxLength(), setListViewHeightBasedOnChildren(), eg..,
+
+FieldValidator:
+All the basic validation criterias can be found here with the appropriate response messages.
+eg : validateMobile(), validateEmail(), validatePassword(), validatePinCode(), etc..,
+
+
+CommonMethods:
+All the generic common methods can be found here
+
+PreferenceData:
+All the shared preferences put and get methods and the key variables can be found here and compressed as two methods
+1) preferencePutData()
+2) preferencegetDataString() and other relevant data types
+
+
+
 API interation :
 
 No more sync task, no more handling loders in multiple place.
